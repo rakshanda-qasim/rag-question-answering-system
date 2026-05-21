@@ -1,2 +1,34 @@
-# rag-question-answering-system
-End-to-end Retrieval-Augmented Generation (RAG) Question Answering System using LangChain, Qdrant, Sentence Transformers, and OpenAI.
+\# RAG-Based Question Answering System
+
+
+
+\## Overview
+
+
+
+\## Features
+
+
+
+\## Architecture
+
+
+
+\## Tech Stack
+
+
+
+\## Project Structure
+
+
+
+\## Setup Instructions
+
+
+
+\## Retrieval Pipeline
+
+
+
+\## Future Improvements
+
