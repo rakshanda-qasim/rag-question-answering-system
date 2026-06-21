@@ -1,34 +1,10 @@
-\# RAG-Based Question Answering System
+# Retrieval-Augmented Question Answering System
 
+An end-to-end Retrieval-Augmented Generation (RAG) system built using:
 
+- LangChain
+- Qdrant Vector Database
+- Sentence Transformers
+- OpenAI LLMs
 
-\## Overview
-
-
-
-\## Features
-
-
-
-\## Architecture
-
-
-
-\## Tech Stack
-
-
-
-\## Project Structure
-
-
-
-\## Setup Instructions
-
-
-
-\## Retrieval Pipeline
-
-
-
-\## Future Improvements
-
+The system retrieves relevant context from a vector database before generating answers, reducing hallucinations and improving factual accuracy.
