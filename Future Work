@@ -1,0 +1,7 @@
+## Future Work
+
+- Compare different embedding models
+- Evaluate retrieval quality
+- Experiment with reranking
+- Benchmark multiple LLMs
+- Improve citation grounding
