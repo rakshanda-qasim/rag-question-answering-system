@@ -1,0 +1,10 @@
+## Features
+
+- Document ingestion pipeline
+- Text chunking
+- Vector embeddings
+- Semantic search
+- Context retrieval
+- Retrieval-Augmented Generation
+- Interactive frontend
+- Docker deployment
