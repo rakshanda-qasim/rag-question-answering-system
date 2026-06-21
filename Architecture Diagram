@@ -1,0 +1,13 @@
+User Question
+      ↓
+Embedding Model
+      ↓
+Qdrant Vector Store
+      ↓
+  Retriever
+      ↓
+Relevant Context
+      ↓
+     LLM
+      ↓
+Generated Answer
